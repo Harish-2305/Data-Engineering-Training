@@ -1,0 +1,4 @@
+[
+  {"EmpID": 101, "Name": "Aarav", "Age": 28, "Department": "Tech", "Salary": 60000},
+  {"EmpID": 102, "Name": "Sanya", "Age": 25, "Department": "HR", "Salary": 55000}
+]
