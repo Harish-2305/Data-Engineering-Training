@@ -1,50 +1,52 @@
-📁 Data-Engineering-Training
-This repository contains all resources, training materials, and assignments for the Data Engineering Training. Each folder is named according to its corresponding date (e.g., July-17th, July-18th, etc.).
+# Data-Engineering-Training
 
-📅 Folder Structure by Date
-📁 July-17th
-✅ SQL Training Materials
+This repository contains all resources, training materials, and assignments for the **Data Engineering Training** 
+Each folder is named according to its corresponding date (e.g., `July-17th`, `July-18th`, etc.).
 
-✅ SQL Assignments
+## 📅 Folder Structure by Date
 
-📁 July-18th
-✅ MongoDB Training
+### 📁 July-17th
+- ✅ SQL Training Materials  
+- ✅ SQL Assignments  
 
-✅ MongoDB Assignment
+### 📁 July-18th
+- ✅ MongoDB Training  
+- ✅ MongoDB Assignment  
 
-📁 July-21st
-✅ SQL Assignments (4 files)
+### 📁 July-21st
+- ✅ SQL Assignments (4 files)
 
-📁 July-22nd
-✅ MongoDB Assignments (4 files)
+### 📁 July-22nd
+- ✅ MongoDB Assignments (4 files)
 
-📁 July-24th
-✅ SQL Assessments (3 files)
+### 📁 July-24th
+- ✅ SQL Assessments (3 files)  
+- ✅ MongoDB Assessments (3 files)
 
-✅ MongoDB Assessments (3 files)
+### 📁 July-25th
+- ✅ Python Training (4 files and 1 folder)
+- ✅ Python Exercise  (3 files)
 
-📁 July-25th
-✅ Python Learning
+### 📁 July-28th
+- 📁 Python Training (6 files)
+- 📁 python Assessment 1 (6 files) 
+- 📁 Python Assessment 2 (6 files)
 
-✅ Python Exercise
+---
 
-📁 July-28th
-✅ Python_Assessment_1
+## 📦 Projects
 
-✅ Python_Assessment_2
+### 📁 Project-1: Online Course Tracker
+- `online_course.sql` 
+- `online_course.js` 
 
-✅ Python_Training
+### 📁 Project-2: Inventory Management System
+- `inventory.sql` 
+- `inventory.js` 
 
-📦 Projects
-📁 Project-1: Online Course Tracker
-online_course.sql
+---
 
-online_course.js
+## 🗃️ Notes
 
-📁 Project-2: Inventory Management System
-inventory.sql
+- Folder names reflect actual dates when sessions or tasks were assigned/completed.
 
-inventory.js
-
-🗃️ Notes
-Folder names reflect actual dates when sessions or tasks were assigned/completed.
