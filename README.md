@@ -24,13 +24,18 @@ Each folder is named according to its corresponding date (e.g., `July-17th`, `Ju
 - ✅ MongoDB Assessments (3 files)
 
 ### 📁 July-25th
-- ✅ Python Training (4 files and 1 folder)
-- ✅ Python Exercise  (3 files)
+- 📁 Python Training (4 files and 1 folder)
+- 📁 Python Exercise  (3 files)
 
 ### 📁 July-28th
 - 📁 Python Training (6 files)
 - 📁 python Assessment 1 (6 files) 
 - 📁 Python Assessment 2 (6 files)
+
+ ### 📁 July-29th
+- ✅ Big_Data_4Vs
+- ✅ CSV_operations_Exercises
+- ✅ Python_training
 
 ---
 
