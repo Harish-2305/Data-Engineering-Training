@@ -37,6 +37,11 @@ Each folder is named according to its corresponding date (e.g., `July-17th`, `Ju
 - ✅ CSV_operations_Exercises
 - ✅ Python_training
 
+ ### 📁 July-30th
+- ✅ CSV_learn
+- ✅ Pyspark_Assignment
+- ✅ Python_Exercises_2
+- ✅ Spark_Training
 ---
 
 ## 📦 Projects
