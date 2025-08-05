@@ -1,0 +1,16 @@
+course_id,course_name,total_enrollments,completed,dropped,avg_modules_completed,avg_total_modules,completion_rate_percent
+509,Cloud Fundamentals,2,0,1,2.5,5.0,50.0
+515,Mobile Dev,2,2,0,4.5,5.0,90.0
+504,Data Analysis,3,1,1,2.6666666666666665,5.0,53.333333333333336
+514,Security 101,2,0,0,2.0,4.0,50.0
+507,Databases Intro,3,1,0,2.0,4.0,50.0
+502,Advanced Python,3,0,2,2.0,6.0,33.33333333333333
+501,Foundation of Python,3,1,0,2.3333333333333335,4.0,58.333333333333336
+505,Web Dev Basics,3,1,0,5.333333333333333,6.0,88.88888888888889
+506,Machine Learning,3,1,1,4.0,8.0,50.0
+510,Big Data Hadoop,2,1,0,6.0,7.0,85.71428571428571
+511,Data Visualization,2,0,2,0.5,4.0,12.5
+513,DevOps,2,2,0,4.0,6.0,66.66666666666666
+503,Java Basics,2,0,0,3.0,5.0,60.0
+508,Frontend Frameworks,2,1,0,5.0,6.0,83.33333333333334
+512,Networking Basics,2,2,0,4.0,5.0,80.0

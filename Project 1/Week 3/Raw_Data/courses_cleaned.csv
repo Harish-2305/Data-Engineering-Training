@@ -1,0 +1,16 @@
+course_id,course_name,description,instructor_name,No_Of_modules,duration_weeks,created_at
+501,Foundation of Python,Basics of Python - data types,Santhosh,4,2,2024-01-06
+502,Advanced Python,Functions, Vasanth,6,4,2024-05-06
+503,Java Basics,Core Java Syntax and Structures,Praveen,5,3,2024-10-06
+504,Data Analysis,Intro to Data Analytics,Meera,5,3,2024-12-06
+505,Web Dev Basics,HTML CSS JS,Geeta,6,3,2024-01-01
+506,Machine Learning,ML Concepts,Ajith,8,6,2024-01-01
+507,Databases Intro,SQL and NoSQL Review,Ramesh,4,2,2024-01-01
+508,Frontend Frameworks,No description available,Monica,6,4,2024-01-01
+509,Cloud Fundamentals,Intro to AWS,Farhan,5,3,2024-01-01
+510,Big Data Hadoop,Big Data Processing,Hari,7,5,2024-05-07
+511,Data Visualization,Charts and Dashboards,Unknown,4,2,2024-10-07
+512,Networking Basics,Networks,Sam,5,4,2024-01-01
+513,DevOps,CI/CD Pipeline,Abhi,6,5,2024-01-01
+514,Security 101,Basics of Cybersecurity,Kiran,4,3,2024-01-01
+515,Mobile Dev,Android/iOS,Pramod,5,4,2024-01-08

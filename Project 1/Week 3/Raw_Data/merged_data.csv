@@ -1,0 +1,36 @@
+enroll_id,student_id,course_id,enroll_date,status,name,email,age,registration_date,progress_id,modules_completed,last_update,course_name,description,instructor_name,No_Of_modules,duration_weeks,created_at,completion_percent
+1001,1.0,501,2024-10-07,Completed,Harish,harish@gmail.com,26.70649350649351,2024-01-07,2001.0,4.0,2024-07-21,Foundation of Python,Basics of Python - data types,Santhosh,4,2,2024-01-06,100.0
+1002,2.0,501,2024-12-07,Active,saravanan,saran@gmail.com,26.70649350649351,2024-02-07,2002.0,2.0,2024-07-14,Foundation of Python,Basics of Python - data types,Santhosh,4,2,2024-01-06,50.0
+1003,3.0,502,2024-01-01,Dropped,Valar,valar@gmail.com,26.70649350649351,2024-03-07,2003.0,0.0,2024-07-15,Advanced Python,Functions, Vasanth,6,4,2024-05-06,0.0
+1004,4.0,502,2024-01-01,Active,Mary,mary@gmail.com,26.70649350649351,2024-04-07,2004.0,3.0,2024-07-16,Advanced Python,Functions, Vasanth,6,4,2024-05-06,50.0
+1006,6.0,503,2024-01-01,Active,Ajay,ajay@gmail.com,26.70649350649351,2024-06-07,2006.0,4.0,2024-07-18,Java Basics,Core Java Syntax and Structures,Praveen,5,3,2024-10-06,80.0
+1007,7.0,504,2024-01-01,Dropped,Tom,Unknown,26.70649350649351,2024-07-07,2007.0,1.0,2024-01-01,Data Analysis,Intro to Data Analytics,Meera,5,3,2024-12-06,20.0
+1008,8.0,504,2024-01-01,Completed,Amit,amit@gmail.com,26.70649350649351,2024-08-07,2008.0,5.0,2024-07-19,Data Analysis,Intro to Data Analytics,Meera,5,3,2024-12-06,100.0
+1009,9.0,505,2024-01-01,Active,Sumi,sumi@gmail.com,26.70649350649351,2024-09-07,2009.0,4.0,2024-07-20,Web Dev Basics,HTML CSS JS,Geeta,6,3,2024-01-01,66.66666666666666
+1010,10.0,505,2024-01-01,Active,Jaya,jaya@gmail.com,26.70649350649351,2024-01-01,2010.0,6.0,2024-07-20,Web Dev Basics,HTML CSS JS,Geeta,6,3,2024-01-01,100.0
+1012,12.0,506,2024-01-01,Completed,Sam,sam@gmail.com,26.70649350649351,2024-11-07,2012.0,8.0,2024-07-22,Machine Learning,ML Concepts,Ajith,8,6,2024-01-01,100.0
+1013,13.0,507,2024-01-01,Completed,Unknown,ravi@gmail.com,26.70649350649351,2024-12-07,2013.0,4.0,2024-01-01,Databases Intro,SQL and NoSQL Review,Ramesh,4,2,2024-01-01,100.0
+1014,14.0,507,2024-01-01,Active,Sara,sara@gmail.com,26.70649350649351,2024-01-01,2014.0,0.0,2024-07-23,Databases Intro,SQL and NoSQL Review,Ramesh,4,2,2024-01-01,0.0
+1015,15.0,508,2024-01-01,Completed,Venkat,venkat@gmail.com,26.70649350649351,2024-01-01,2015.0,6.0,2024-07-24,Frontend Frameworks,No description available,Monica,6,4,2024-01-01,100.0
+1016,16.0,508,2024-01-01,Active,Priyanka,priyanka@gmail.com,26.70649350649351,2024-01-01,2016.0,4.0,2024-07-25,Frontend Frameworks,No description available,Monica,6,4,2024-01-01,66.66666666666666
+1017,17.0,509,2024-01-01,Active,Unknown,john@gmail.com,26.70649350649351,2024-01-01,2017.0,3.0,2024-07-25,Cloud Fundamentals,Intro to AWS,Farhan,5,3,2024-01-01,60.0
+1018,18.0,509,2024-01-01,Dropped,Ali,ali@gmail.com,26.70649350649351,2024-01-01,2018.0,2.0,2024-07-26,Cloud Fundamentals,Intro to AWS,Farhan,5,3,2024-01-01,40.0
+1019,19.0,510,2024-01-01,Completed,Simran,simran@gmail.com,26.70649350649351,2024-01-01,2019.0,7.0,2024-07-27,Big Data Hadoop,Big Data Processing,Hari,7,5,2024-05-07,100.0
+1020,20.0,510,2024-01-01,Active,Nikita,nikita@gmail.com,26.70649350649351,2024-01-01,2020.0,5.0,2024-07-27,Big Data Hadoop,Big Data Processing,Hari,7,5,2024-05-07,71.42857142857143
+1021,21.0,511,2024-01-01,Dropped,Manoj,manoj@gmail.com,26.70649350649351,2024-01-01,2021.0,1.0,2024-07-27,Data Visualization,Charts and Dashboards,Unknown,4,2,2024-10-07,25.0
+1022,22.0,511,2024-01-01,Dropped,Mita,mita@gmail.com,26.70649350649351,2024-01-01,2022.0,0.0,2024-07-27,Data Visualization,Charts and Dashboards,Unknown,4,2,2024-10-07,0.0
+1023,23.0,512,2024-01-01,Completed,Yash,yash@gmail.com,26.70649350649351,2024-01-01,2023.0,5.0,2024-07-29,Networking Basics,Networks,Sam,5,4,2024-01-01,100.0
+1024,24.0,512,2024-01-01,Completed,Arjun,arjun@gmail.com,26.70649350649351,2024-01-01,2024.0,3.0,2024-07-29,Networking Basics,Networks,Sam,5,4,2024-01-01,60.0
+1025,25.0,513,2024-01-01,Completed,Sunil,Unknown,26.70649350649351,2024-01-01,2025.0,6.0,2024-07-30,DevOps,CI/CD Pipeline,Abhi,6,5,2024-01-01,100.0
+1026,26.0,513,2024-01-01,Completed,Kavya,kavya@gmail.com,26.70649350649351,2024-01-01,2026.0,2.0,2024-07-30,DevOps,CI/CD Pipeline,Abhi,6,5,2024-01-01,33.33333333333333
+1027,27.0,514,2024-01-01,Active,Rose,rose@gmail.com,26.70649350649351,2024-01-01,2027.0,2.0,2024-01-01,Security 101,Basics of Cybersecurity,Kiran,4,3,2024-01-01,50.0
+1028,28.0,514,2024-01-01,Active,Unknown,noemail@none.com,26.70649350649351,2024-01-01,2028.0,2.0,2024-07-31,Security 101,Basics of Cybersecurity,Kiran,4,3,2024-01-01,50.0
+1029,29.0,515,2024-01-08,Completed,Sid,sid@gmail.com,26.70649350649351,2024-01-01,2029.0,4.0,2024-08-02,Mobile Dev,Android/iOS,Pramod,5,4,2024-01-08,80.0
+1030,30.0,515,2024-01-01,Completed,Francis,francis@gmail.com,26.70649350649351,2024-01-01,2030.0,5.0,2024-08-02,Mobile Dev,Android/iOS,Pramod,5,4,2024-01-08,100.0
+1031,31.0,501,2024-01-08,Active,Akash,akash@gmail.com,26.70649350649351,2024-01-01,2031.0,1.0,2024-08-02,Foundation of Python,Basics of Python - data types,Santhosh,4,2,2024-01-06,25.0
+1032,32.0,502,2024-02-08,Dropped,Lisa,lisa@gmail.com,26.70649350649351,2024-01-01,2032.0,3.0,2024-08-03,Advanced Python,Functions, Vasanth,6,4,2024-05-06,50.0
+1033,33.0,503,2024-02-08,Active,Deepa,deepa@gmail.com,26.70649350649351,2024-01-01,2033.0,2.0,2024-08-03,Java Basics,Core Java Syntax and Structures,Praveen,5,3,2024-10-06,40.0
+1034,34.0,504,2024-03-08,Active,Ram,ram@gmail.com,26.70649350649351,2024-01-08,2034.0,2.0,2024-01-01,Data Analysis,Intro to Data Analytics,Meera,5,3,2024-12-06,40.0
+1035,35.0,505,2024-03-08,Completed,Varun,varun@gmail.com,26.70649350649351,2024-01-01,2035.0,6.0,2024-08-03,Web Dev Basics,HTML CSS JS,Geeta,6,3,2024-01-01,100.0
+1036,36.0,506,2024-03-08,Active,Aravind,aravind@gmail.com,26.70649350649351,2024-02-08,2036.0,0.0,2024-08-03,Machine Learning,ML Concepts,Ajith,8,6,2024-01-01,0.0
+1037,37.0,507,2024-03-08,Active,Nancy,nancy@gmail.com,26.70649350649351,2024-03-08,2037.0,2.0,2024-08-03,Databases Intro,SQL and NoSQL Review,Ramesh,4,2,2024-01-01,50.0
