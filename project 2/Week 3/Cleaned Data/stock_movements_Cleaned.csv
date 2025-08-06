@@ -1,0 +1,41 @@
+,movement_id,product_id,warehouse_id,quantity,movement_type,movement_date,reason_code,recorded_by,verified,direction,stock_effect
+0,3000,1.0,2000.0,30,IN,2024-01-08 10:15:00,New stock purchase,Admin,True,1,30
+1,3001,2.0,2000.0,50,IN,2024-01-08 11:20:00,Vendor delivery,InventoryUser,True,1,50
+2,3002,2.0,2001.0,8,OUT,2024-01-08 15:00:00,Customer order,SalesUser,True,-1,-8
+3,3003,1.0,2002.0,5,OUT,2024-01-08 18:17:00,Damaged item,WarehouseUser,True,-1,-5
+4,3004,3.0,2000.0,15,IN,2024-02-08 09:00:00,New stock purchase,Admin,True,1,15
+5,3005,4.0,2001.0,6,IN,2024-02-08 09:30:00,Fresh stock,InventoryUser,True,1,6
+6,3006,5.0,2003.0,30,IN,2024-02-08 10:45:00,Purchase order,Admin,True,1,30
+7,3007,6.0,2002.0,9,IN,2024-02-08 11:15:00,Initial load,InventoryUser,True,1,9
+8,3008,7.0,2000.0,10,IN,2024-02-08 12:15:00,Procurement,Admin,False,1,10
+10,3010,9.0,2001.0,16,IN,2024-03-08 10:30:00,Restock,replenishment,True,1,16
+11,3011,10.0,2002.0,6,IN,2024-03-08 11:20:00,Purchase,Admin,True,1,6
+12,3012,11.0,2003.0,7,IN,2024-03-08 12:15:00,New batch,support,True,1,7
+13,3013,12.0,2004.0,15,IN,2024-03-08 13:10:00,New batch,User5,True,1,15
+14,3014,13.0,2002.0,3,IN,2024-03-08 14:00:00,First stock,SupportUser,True,1,3
+15,3015,14.0,2005.0,12,IN,2024-03-08 15:00:00,Unknown,supplier,True,1,12
+16,3016,15.0,2005.0,7,IN,2024-03-08 16:00:00,Restock,Admin,True,1,7
+17,3017,16.0,2006.0,24,IN,2024-04-08 09:00:00,Procured,ProcureUser,True,1,24
+18,3018,17.0,2007.0,5,IN,2024-04-08 10:20:00,Restock,Admin,True,1,5
+19,3019,18.0,2008.0,20,IN,2024-04-08 11:25:00,Fresh order,OrderBot,True,1,20
+20,3020,19.0,2009.0,24,IN,2024-04-08 12:00:00,Stock refill,RefillTeam,True,1,24
+21,3021,20.0,2010.0,8,IN,2024-04-08 12:45:00,Procured,Admin,True,1,8
+22,3022,21.0,2011.0,2,IN,2024-04-08 13:38:00,Restocking,Staff,True,1,2
+23,3023,22.0,2012.0,20,IN,2024-04-08 14:22:00,New stock,WarehouseUser,True,1,20
+24,3024,23.0,2013.0,18,IN,2024-04-08 15:55:00,Procured,Unknown,True,1,18
+25,3025,24.0,2014.0,12,IN,2024-04-08 17:11:00,Resupply,Manager,True,1,12
+26,3026,25.0,2000.0,10,OUT,2024-05-08 09:00:00,Dispatched,SalesUser,True,-1,-10
+27,3027,26.0,2001.0,6,OUT,2024-05-08 09:30:00,Returned,Customer,True,-1,-6
+28,3028,27.0,2002.0,5,OUT,2024-05-08 10:30:00,Expired,Warehouse,True,-1,-5
+29,3029,28.0,2004.0,7,IN,2024-05-08 11:20:00,New stock,ImportJob,True,1,7
+30,3030,29.0,2003.0,8,IN,2024-05-08 12:11:00,Order,ProcureBot,True,1,8
+31,3031,30.0,2005.0,8,IN,2024-05-08 13:00:00,Stock transfer,TransferUser,True,1,8
+32,3032,31.0,2001.0,8,OUT,2024-05-08 13:40:00,Defective,Admin,True,-1,-8
+33,3033,32.0,2012.0,2,OUT,2024-05-08 14:35:00,Dispatched,SalesMgr,True,-1,-2
+34,3034,33.0,2006.0,7,IN,2024-05-08 15:29:00,Initial,OpsLead,True,1,7
+35,3035,34.0,2008.0,14,IN,2024-05-08 16:14:00,New order,ProcureBot,True,1,14
+36,3036,35.0,2000.0,5,OUT,2024-05-08 17:05:00,Damaged item,Support,True,-1,-5
+37,3037,36.0,2001.0,4,OUT,2024-05-08 17:50:00,Lost,Admin,True,-1,-4
+38,3038,37.0,2002.0,3,OUT,2024-05-08 18:20:00,Return,InventoryUser,True,-1,-3
+39,3039,38.0,2004.0,10,IN,2024-05-08 19:10:00,Refill,Ops,True,1,10
+41,3041,40.0,2005.0,8,IN,2024-06-08 09:05:00,Refill,Admin,True,1,8

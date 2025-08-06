@@ -1,0 +1,16 @@
+,warehouse_id,location,capacity,manager_name,contact_number
+0,2000,Chennai,2000,Vikram Kumar,9876543210
+1,2001,Bangalore,1500,Unknown,9988776655
+2,2002,Delhi,1800,Manoj Joshi,8844112299
+3,2003,Hyderabad,1200,Sneha Reddy,9955123545
+4,2004,Mumbai,1600,Rehan Shaik,9123451287
+5,2005,Kolkata,1700,Rohit Sen,7901234561
+6,2006,Ahmedabad,1300,Pratap Singh,9432123123
+7,2007,Patna,1000,Mohan Kumar,8901234567
+8,2008,Noida,1100,Ritika Sharma,9876987698
+9,2009,Coimbatore,900,Vijay Anand,9654132890
+10,2010,Indore,800,Sajid Shah,9988772121
+11,2011,Jaipur,600,Jyoti Srivastava,8877889911
+12,2012,Guwahati,450,Anubhav Das,7999988777
+13,2013,Trivandrum,350,Krishnan P,9321432200
+14,2014,Pune,650,Arun Yadav,9852147823

@@ -1,0 +1,41 @@
+,product_id,name,description,category,unit_price,reorder_level,status,supplier_id,created_at,last_updated
+0,1,LED TV,42 inch Smart TV,Electronics,35000,10,active,1000.0,2024-01-08 10:00:00,2024-05-08 09:30:00
+1,2,Organic Green Tea,Imported organic green tea,Grocery,1200,25,active,1001.0,2024-01-08 11:15:00,2024-05-08 11:15:00
+2,3,Wooden Bookshelf,5-tier sturdy bookshelf,Furniture,8000,5,active,1002.0,2024-02-08 09:18:00,2024-05-08 14:23:00
+3,4,Men's Denim Jacket,Blue denim jacket,Clothing,2500,6,active,1000.0,2024-02-08 10:15:00,2024-05-08 13:19:00
+4,5,Kindle E-reader,6 inch display device,Electronics,8500,20,active,1003.0,2024-02-08 11:25:00,2024-05-08 12:01:00
+5,6,Cooking Essentials Book,Recipe and kitchen guide,Books,600,8,active,1004.0,2024-02-08 12:00:00,2024-04-08 09:00:00
+6,7,Office Chair,Unknown,Furniture,7000,5,active,1001.0,2024-03-08 08:17:00,2024-03-08 12:40:00
+7,8,Organic Almonds,Raw shelled almonds,Grocery,1200,12,active,1002.0,2024-03-08 13:20:00,2024-05-08 15:22:00
+8,9,Wireless Earphones,Noise-cancelling earbuds,Electronics,5500,18,active,1004.0,2024-03-08 14:00:00,2024-05-08 10:05:00
+9,10,Children’s Story Book,Illustrated fairy tales,Books,800,7,active,1002.0,2024-03-08 15:45:00,2024-05-08 16:00:00
+10,11,Casual T-Shirt,Cotton round neck shirt,Unknown,450,7,active,1000.0,2024-04-08 09:30:00,2024-05-08 17:00:00
+11,12,Laptop Stand,Adjustable height stand,Electronics,1800,10,active,1003.0,2024-04-08 10:30:00,2024-05-08 17:30:00
+12,13,Wooden Dining Table,6-seater solid wood,Furniture,25000,4,active,1002.0,2024-04-08 11:00:00,2024-05-08 18:00:00
+13,14,Woolen Scarf,Winter warm scarf,Clothing,1200,12,active,1004.0,2024-04-08 12:30:00,2024-06-08 09:00:00
+14,15,Coffee Maker,Automatic drip coffee maker,Electronics,3300,6,active,1001.0,2024-04-08 13:00:00,2024-06-08 09:30:00
+15,16,Organic Honey,Pure wild honey,Grocery,1900,25,active,1003.0,2024-04-08 13:30:00,2024-06-08 10:00:00
+16,17,Fiction Novel,Best-selling thriller,Books,450,8,active,1002.0,2024-04-08 14:00:00,2024-06-08 10:30:00
+17,18,Men's Running Shoes,Lightweight sneakers,Clothing,3200,20,active,1001.0,2024-04-08 14:30:00,2024-06-08 11:00:00
+18,19,Desk Lamp,LED adjustable lamp,Electronics,1350,30,active,1002.0,2024-04-08 15:00:00,2024-06-08 11:30:00
+19,20,Kitchen Storage Rack,3-tier stainless steel,Furniture,3500,6,active,1001.0,2024-04-08 15:30:00,2024-06-08 12:00:00
+20,21,Organic Coffee Beans,Dark roast premium,Grocery,1500,3,active,1002.0,2024-04-08 16:00:00,2024-06-08 12:30:00
+21,22,Children’s Puzzle Book,Brain teaser games,Books,650,30,active,1004.0,2024-04-08 16:30:00,2024-06-08 13:00:00
+22,23,Women’s Handbag,Leather tote bag,Clothing,3600,15,active,1003.0,2024-04-08 17:00:00,2024-06-08 13:30:00
+23,24,Office Desk,Wooden top with drawers,Furniture,9500,20,active,1004.0,2024-04-08 17:30:00,2024-06-08 14:00:00
+24,25,Fruit Basket,Unknown,Grocery,1100,10,active,1000.0,2024-05-08 09:00:00,2024-06-08 14:30:00
+25,26,Unknown,World history compendium,Books,1950,8,active,,2024-05-08 09:30:00,2024-06-08 15:00:00
+26,27,Smart Watch,Health tracking device,Electronics,9200,7,active,1002.0,2024-05-08 10:00:00,2024-06-08 15:30:00
+27,28,Formal Shirt,White cotton shirt,Clothing,1400,10,active,1001.0,2024-05-08 10:30:00,2024-06-08 16:00:00
+28,29,Wall Painting,Abstract art piece,Furniture,4300,10,active,1002.0,2024-05-08 11:00:00,2024-06-08 16:30:00
+29,30,Organic Olive Oil,Extra virgin quality,Grocery,1800,15,active,1004.0,2024-05-08 11:30:00,2024-06-08 17:00:00
+30,31,Travel Guide Book,Europe edition,Books,750,9,active,1001.0,2024-05-08 12:00:00,2024-06-08 17:30:00
+31,32,Leather Wallet,Men's genuine leather,Clothing,2200,3,inactive,1003.0,2024-05-08 12:30:00,2024-06-08 18:00:00
+32,33,LED Monitor,27 inch Full HD,Electronics,9500,6,active,1004.0,2024-05-08 13:00:00,2024-06-08 18:30:00
+33,34,Cotton Bed Sheet,Queen size set,Furniture,1800,12,active,1001.0,2024-05-08 13:30:00,2024-06-08 19:00:00
+34,35,Organic Oats,Pure rolled oats,Grocery,1400,9,active,1002.0,2024-05-08 14:00:00,2024-06-08 19:30:00
+35,36,Children’s Toy Set,Educational blocks,Electronics,9000,7,active,1004.0,2024-05-08 14:30:00,2024-06-08 20:00:00
+36,37,Wool Sweater,Men's winter wear,Clothing,8300,5,active,1003.0,2024-05-08 15:00:00,2024-06-08 20:30:00
+37,38,Cookware Set,10-piece non-stick,Furniture,3400,11,active,1004.0,2024-05-08 15:30:00,2024-06-08 21:00:00
+38,39,Aroma Diffuser,Ultrasonic essential oil,Electronics,9500,4,active,1001.0,2024-05-08 16:00:00,2024-06-08 21:30:00
+39,40,Running Socks,Cushioned sport socks,Clothing,1500,12,active,1004.0,2024-05-08 16:30:00,2024-06-08 22:00:00
