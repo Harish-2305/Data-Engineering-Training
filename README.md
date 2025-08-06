@@ -5,6 +5,20 @@ Each folder is named according to its corresponding date (e.g., `July-17th`, `Ju
 
 ## 📅 Folder Structure by Date
 
+ ### 📁 Aug-1st
+- ✅ PysparkSQL_Exercise2_
+- ✅ PySparkSQLViews_Exercises
+- ✅ SparkSQL
+
+ ### 📁 Aug-5th
+- ✅ Pyspark_Exercises_Task_2
+- ✅ Pyspark_Eercises_Task1
+- ✅ RDD_Tarining
+
+ ### 📁 Aug-6th
+- ✅ Azure_learn_basics
+- ✅ Cloud
+
 ### 📁 July-17th
 - ✅ SQL Training Materials  
 - ✅ SQL Assignments  
@@ -42,17 +56,24 @@ Each folder is named according to its corresponding date (e.g., `July-17th`, `Ju
 - ✅ Pyspark_Assignment
 - ✅ Python_Exercises_2
 - ✅ Spark_Training
+
+ ### 📁 July-31st
+- ✅ Collections_and_DS
+- ✅ Master_DataFrame_Assigment
+- ✅ Pyspark_Assignment
 ---
 
 ## 📦 Projects
 
 ### 📁 Project-1: Online Course Tracker
-- `online_course.sql` 
-- `online_course.js` 
+- 📁 Week 1
+- 📁 Week 2
+- 📁 Week 3
 
 ### 📁 Project-2: Inventory Management System
-- `inventory.sql` 
-- `inventory.js` 
+- 📁 Week 1
+- 📁 Week 2
+- 📁 Week 3 
 
 ---
 
