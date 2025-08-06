@@ -1,0 +1,17 @@
+supplier_id,name,address,email,phone,gst_number,rating
+1000,Tech Supplies Pvt Ltd,Chennai,tech@sup.com,9876543210,GSTTN1234X,5
+1001,Global Traders,Mumbai,,9988776655,GSTMH5678Y,4
+1002,Infosys Solutions,Bangalore,info@infosysol.com,9123456780,GSTBL2345P,5
+1003,DigiMart,Delhi,sales@digimart.com,9001122233,GSTDL9921Y,3
+1004,ElectroHub,Hyderabad,support@electrohub.com,8439875612,GSTHY5612B,4
+1005,NextGen Retail,Coimbatore,hello@nextgen.com,9911223344,GSTCO3344A,4
+1006,Prime Distributors,Pune,office@primedis.com,9810020030,GSTPN0029T,5
+1007,Wholesale Mart,Jaipur,deals@wm.com,8822003344,GSTJP3456W,3
+1008,Innovate Systems,Noida,services@innovsys.com,9044123412,GSTND5532F,5
+1009,Universal Exports,Kolkata,contact@uex.com,9731456712,GSTKL2292V,4
+1010,,Ahmedabad,enquiry@bigbox.com,8133091120,GSTAH8989Z,4
+1011,SmartWave,Chandigarh,team@smartwave.com,9256784120,GSTCH7869T,5
+1012,Saturn Supplies,Vijayawada,connect@saturnsup.com,7812345612,GSTVA4321A,3
+1013,MegaLink,Patna,info@megalink.com,8331122300,GSTPT1022M,4
+1014,Future Hub,Guwahati,help@futurehub.com,9447722311,GSTGT9229F,3
+1015,Greenfield Tech,Indore,green@field.com,9544312378,GSTIN4921X,4

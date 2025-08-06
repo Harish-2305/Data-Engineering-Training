@@ -1,0 +1,43 @@
+movement_id,product_id,warehouse_id,quantity,movement_type,movement_date,reason_code,recorded_by,verified
+3000,1,2000,30,IN,01-08-2024 10:15,New stock purchase,Admin,TRUE
+3001,2,2000,50,IN,01-08-2024 11:20,Vendor delivery,InventoryUser,TRUE
+3002,2,2001,8,OUT,01-08-2024 15:00,Customer order,SalesUser,TRUE
+3003,1,2002,5,OUT,01-08-2024 18:17,Damaged item,WarehouseUser,TRUE
+3004,3,2000,15,IN,02-08-2024 09:00,New stock purchase,Admin,TRUE
+3005,4,2001,6,IN,02-08-2024 09:30,Fresh stock,InventoryUser,TRUE
+3006,5,2003,30,IN,02-08-2024 10:45,Purchase order,Admin,TRUE
+3007,6,2002,9,IN,02-08-2024 11:15,Initial load,InventoryUser,TRUE
+3008,7,2000,10,IN,02-08-2024 12:15,Procurement,Admin,
+3009,,2004,12,IN,03-08-2024 09:45,Restock,sales_mgr,TRUE
+3010,9,2001,16,IN,03-08-2024 10:30,Restock,replenishment,TRUE
+3011,10,2002,6,IN,03-08-2024 11:20,Purchase,Admin,TRUE
+3012,11,2003,7,IN,03-08-2024 12:15,New batch,support,TRUE
+3013,12,2004,15,IN,03-08-2024 13:10,New batch,User5,TRUE
+3014,13,2002,3,IN,03-08-2024 14:00,First stock,SupportUser,TRUE
+3015,14,2005,12,IN,03-08-2024 15:00,,supplier,TRUE
+3016,15,2005,7,IN,03-08-2024 16:00,Restock,Admin,TRUE
+3017,16,2006,24,IN,04-08-2024 09:00,Procured,ProcureUser,TRUE
+3018,17,2007,5,IN,04-08-2024 10:20,Restock,Admin,TRUE
+3019,18,2008,20,IN,04-08-2024 11:25,Fresh order,OrderBot,TRUE
+3020,19,2009,24,IN,04-08-2024 12:00,Stock refill,RefillTeam,TRUE
+3021,20,2010,8,IN,04-08-2024 12:45,Procured,Admin,TRUE
+3022,21,2011,2,IN,04-08-2024 13:38,Restocking,Staff,TRUE
+3023,22,2012,20,IN,04-08-2024 14:22,New stock,WarehouseUser,TRUE
+3024,23,2013,18,IN,04-08-2024 15:55,Procured,,TRUE
+3025,24,2014,12,IN,04-08-2024 17:11,Resupply,Manager,TRUE
+3026,25,2000,10,OUT,05-08-2024 09:00,Dispatched,SalesUser,TRUE
+3027,26,2001,6,OUT,05-08-2024 09:30,Returned,Customer,TRUE
+3028,27,2002,5,OUT,05-08-2024 10:30,Expired,Warehouse,TRUE
+3029,28,2004,7,IN,05-08-2024 11:20,New stock,ImportJob,TRUE
+3030,29,2003,8,IN,05-08-2024 12:11,Order,ProcureBot,TRUE
+3031,30,2005,8,IN,05-08-2024 13:00,Stock transfer,TransferUser,TRUE
+3032,31,2001,8,OUT,05-08-2024 13:40,Defective,Admin,TRUE
+3033,32,2012,2,OUT,05-08-2024 14:35,Dispatched,SalesMgr,TRUE
+3034,33,2006,7,IN,05-08-2024 15:29,Initial,OpsLead,TRUE
+3035,34,2008,14,IN,05-08-2024 16:14,New order,ProcureBot,TRUE
+3036,35,2000,5,OUT,05-08-2024 17:05,Damaged item,Support,TRUE
+3037,36,2001,4,OUT,05-08-2024 17:50,Lost,Admin,TRUE
+3038,37,2002,3,OUT,05-08-2024 18:20,Return,InventoryUser,TRUE
+3039,38,2004,10,IN,05-08-2024 19:10,Refill,Ops,TRUE
+3040,39,,6,OUT,05-08-2024 19:40,Defective,Warehouse,TRUE
+3041,40,2005,8,IN,06-08-2024 09:05,Refill,Admin,TRUE
